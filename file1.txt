@@ -5,3 +5,4 @@ change 3: commit made by teammates for particular workitem
 change 4: Bug1 fix
 change 5:updated file1 for testing pull request
 change 6:CR2 related change
+change 7:: Bug fix
